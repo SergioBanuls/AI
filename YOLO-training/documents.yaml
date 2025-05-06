@@ -1,0 +1,7 @@
+names:
+- face
+- document
+nc: 2
+path: datasets/documents
+train: datasets/documents/images/train
+val: datasets/documents/images/val
